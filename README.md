@@ -112,4 +112,4 @@ yarn build
 - Презентеры используют интерфейсы `ProductPresenter`, `FormPresenter`, `CatalogPresenter`, `CartPresenter`.
 
 ## UML диаграмма
-- 
+- https://github.com/AlexPlinar/yandex-praktikum-web-larek-frontend/blob/main/MVP%20UML%20Diagram.png
