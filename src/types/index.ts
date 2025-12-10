@@ -178,7 +178,11 @@ class Cart implements ICart {
         return this.items;
     }
     getTotal(): number {
-        return this.items.length;
+        let sum = 0;
+        this.items.forEach(item => {
+            sum += item.cost;
+        });
+        return sum;
     }
 }
 
